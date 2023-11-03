@@ -1,0 +1,68 @@
+const menu = [
+    {
+      id: 1,
+      title: 'buttermilk pancakes',
+      category: 'breakfast',
+      price: 300,
+      img: './images/item-1.jpeg',
+      desc: `Fluffy and tender texture, with a subtle tangy flavor from the buttermilk. Cooked on a griddle, they turn golden brown and are often served with toppings such as butter and syrup, fruit, or chocolate chips.`,
+    },
+    {
+      id: 2,
+      title: 'diner double',
+      category: 'lunch',
+      price: 450  ,
+      img: './images/item-2.jpeg',
+      desc: `A double hamburger fried medium rare with exotic origano served with two mayo dips combined with medium salted fries `,
+    },
+    {
+      id: 3,
+      title: 'godzilla milkshake',
+      category: 'shakes',
+      price: 350,
+      img: './images/item-3.jpeg',
+      desc: `Indulgent oversized milkshake with extavagent toppings whipped cream, candy, cookies which is as colossal and delightful as the legendary godzilla`,
+    },
+    {
+      id: 4,
+      title: 'country delight',
+      category: 'breakfast',
+      price: 400,
+      img: './images/item-4.jpeg',
+      desc: `Two half fried omelette with a dark brown fried toast along with a mess of healthy veggies seasoned with exotic masalas from Italy `,
+    },
+    {
+      id: 5,
+      title: 'egg attack',
+      category: 'lunch',
+      price: 250,
+      img: './images/item-5.jpeg',
+      desc: `A giant double patty burger with each patty made up of 3 scrambled eggs with a delight of three different mayos and veggies to top it off `,
+    },
+    {
+      id: 6,
+      title: 'oreo dream',
+      category: 'shakes',
+      price: 200,
+      img: './images/item-6.jpeg',
+      desc: `The bestseller oreo milkshake which contains a blend of oreo crunchy biscuits, browines, choco chips and a special the Starks Special candy.`,
+    },
+    {
+      id: 7,
+      title: 'bacon overflow',
+      category: 'breakfast',
+      price: 500,
+      img: './images/item-7.jpeg',
+      desc: `A jumbo sandwich with a delicious Stark special scrambled eggs on top followed by a well fried bacon strips, a slice of cheese and grilled bread`,
+    },
+    {
+      id: 8,
+      title: 'american classic',
+      category: 'lunch',
+      price: 100,
+      img: './images/item-8.jpeg',
+      desc: `The Great American bestseller a classic Hamburger filled with cheese with a side dip and crazy peri peri fires at just 100 to get your day started.  `,
+    },
+
+  ];
+  export default menu;
