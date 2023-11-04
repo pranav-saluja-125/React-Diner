@@ -11,8 +11,8 @@ When you go to a restaurant, many times the menu is not availabe, if it is then 
 
 ## Technology Stack
 HTML <br>
-CSS
-JavaScript
+CSS <br>
+JavaScript <br>
 React
 
 ## Snapshot
