@@ -10,7 +10,7 @@ Browsing through the menu made easy with different filters.
 When you go to a restaurant, many times the menu is not availabe, if it is then only one or atmost 2 which make is inconvenient if you are in group of more than 5 people. So this problem is resolved as anyone can check the menu straight through their phone.
 
 ## Technology Stack
-HTML
+HTML <br>
 CSS
 JavaScript
 React
